@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/test/foo/bar/foo%2Fbar",
+      "destination": "api/app/foo/bar/foo%2Fbar"
+    }
+  ]
+}
